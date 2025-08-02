@@ -4,7 +4,7 @@ function sumOfDifferences(arr) {
         return curr - ele;
     },0);
 }
-
+let i = "Omar Mahmoud";
 console.log(sumOfDifferences([-6,-7,-2,6,-7,2,-3,-7,8,-8,9,-8,-7,4,9,-1,4,6,1,-6]));
 
 
